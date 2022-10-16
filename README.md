@@ -33,4 +33,4 @@
 </p>
 
 <br>
-<h4 align="center">Download the Wallmart Dataset <a href="https://github.com/shittuadams/Covid-19-Dashboard/blob/main/covid_19_data.xlsx" target="_blank">here</a>.</h4>
+<h4 align="center">Download the Covid-19 Dataset <a href="https://github.com/shittuadams/Covid-19-Dashboard/blob/main/covid_19_data.xlsx" target="_blank">here</a>.</h4>
