@@ -12,7 +12,7 @@
 <p>A summary of the dataset is as follows:<p>
 <div>
    The fields of the dataset are as follows: 
-   <p align="center"><img src="images/covid-19-fields.png"></p>
+   <p align="center"><img src="Images/covid-19-fields.png"></p>
 </div>
 
 <h3>Data Visualization Tool</h3>
@@ -30,7 +30,7 @@
 </ol>
 <h3>Dashboard</h3>
 <p align="center">
-   <img src="images/covid-19-dashboard.png" > 
+   <img src="Images/covid-19-dashboard.png" > 
 </p>
 
 <br>
