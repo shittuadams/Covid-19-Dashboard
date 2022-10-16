@@ -30,7 +30,7 @@
 </ol>
 <h3>Dashboard</h3>
 <p align="center">
-   <img src="images/covid-19-dashboard.png"> 
+   <img src="images/covid-19-dashboard.png" > 
 </p>
 
 <br>
