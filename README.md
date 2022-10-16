@@ -9,9 +9,8 @@
 </ol>
 <h3>Data Sources</h3> 
 <p>The Covid-19 data set is gotten form the World Health Organization (WHO) website. <p>
-<p>A summary of the dataset is as follows:<p>
 <div>
-   The fields of the dataset are as follows: 
+  <p>The fields of the dataset are as follows:</p> 
    <p align="center"><img src="Images/covid-19-fields.png"></p>
 </div>
 
