@@ -30,9 +30,8 @@
 <h3>Dashboard</h3>
 <p align="center">
    <img src="Images/covid-19-dashboard.png" >
-   <br>
-  <span>Check it out in Tableau Public: <a href="https://public.tableau.com/views/DashboardProjectonCovid-19Dataset/Covid-19Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link">here</a></span>
 </p>
+<span>Check it out in Tableau Public: <a href="https://public.tableau.com/views/DashboardProjectonCovid-19Dataset/Covid-19Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link">here</a></span>
 
 <br>
 <h4 align="center">Download the Covid-19 Dataset <a href="https://github.com/shittuadams/Covid-19-Dashboard/blob/main/covid_19_data.xlsx" target="_blank">here</a>.</h4>
