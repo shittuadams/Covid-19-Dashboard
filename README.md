@@ -12,7 +12,7 @@
 <p>A summary of the dataset is as follows:<p>
 <div>
    The fields of the dataset are as follows: 
-   <p align="center"><img src="images/covid-19-fields"></p>
+   <p align="center"><img src="images/covid-19-fields.png"></p>
 </div>
 
 <h3>Data Visualization Tool</h3>
@@ -21,25 +21,17 @@
 <h3>Data Visualization Process</h3>
 <p>The following steps were taken in Tableau:</p> 
 <ol>
-   <li>Average measures were calculated for Sales, Profit and Discount.</li>
-   <li>A map is created of all states in the United State. Average profit and sales per state are used as labels.</li>
-   <li>A bar chart is created in order to ascertain the relationsips between customers' ages and profits. The age measure is converted into Bins.</li>
-   <li>Regional Profits were tabulated an a yearly and quaterly basis.</li>
-   <li>A dashboard is created to nicely combine and present all the aforementioned chards.</li>
+   <li>Data types for each field is aligned to its data. For example, the various date fields is changed from strings to date datatype.</li>
+   <li>A map that shows all countries is created.</li>
+   <li>Bar charts showing numbers of confirmed cases, recoveries and deaths due to Covid-19 is created seperately.</li>
+   <li>Filters are applied to both the maps and the bar charts. This enabled selection of one or more countries to be displayed on the dashboard.</li>
+   <li>The numbers of confirmed cases, recoveries and deaths are displayed in tabular format.</li>
+   <li>A dashboard is created which brings all the aforementioned features together.</li>
 </ol>
 <h3>Dashboard</h3>
 <p align="center">
-   <img src="images/Walmart-Image.png"> 
+   <img src="images/covid-19-dashboard.png"> 
 </p>
-<h3>Key Findings</h3> 
-<p>The following insights were discovered: </p>
-<ol>
-<li>Customers who are above are loss making for the business.</li>  
-<li>Profit is beginning to take an upward direction.</li> 
-</ol>
-<h3>Recommendations </h3>
-<ol>
-<li>Customers of ages less than 90 years old should be the focus of marketing campaigns.</li>  
-</ol>
+
 <br>
 <h4 align="center">Download the Wallmart Dataset <a href="https://github.com/shittuadams/WallmartDataAnalysis/blob/main/Walmart-Retail-Data.xlsx" target="_blank">here</a>.</h4>
